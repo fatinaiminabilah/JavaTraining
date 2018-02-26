@@ -1,0 +1,21 @@
+ // Java while Loop Example
+// Following is a while loop that counts down from 10, printing exactly 10 lines of "tick" :
+
+/* Java Program Example - Java while Loop
+ * Demonstrate the while Loop */
+
+public class WhileLoop2
+{   
+    public static void main(String args[])
+    {
+        
+        int n = 10, b = 20;
+        
+        while(a<=b)
+        {
+            System.out.println("This will not displayed.");
+            
+        }
+        
+    }
+}
